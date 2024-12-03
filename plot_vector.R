@@ -1,0 +1,3 @@
+# Erzeuge den Vektor 1,2,2,2,3,4
+x=rep(c(1,2,3,4),c(1,3,2,1))
+plot(x)
